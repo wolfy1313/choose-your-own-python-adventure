@@ -89,7 +89,7 @@ def salmon():
       print("cool enjoy not having to turn anything in ever again")
   elif answer.lower()=="f":
     print("finally some rest. goodnight sweet yung royal")
-    
+    begin_game()
   else:
     wrong_answer()
     salmon()
